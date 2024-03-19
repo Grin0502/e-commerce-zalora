@@ -7,10 +7,10 @@ const Logo = () => {
     <Link href="/">
       <a className="block md:flex items-center justify-center w-full flex-grow md:flex-grow-0">
         <Image
-          src="/images/logo.png"
-          alt="SlaShop-logo"
-          width={120}
-          height={25}
+          src="/images/logo.jpg"
+          alt="ElcShop-logo"
+          width={130}
+          height={40}
           objectFit="contain"
           className="cursor-pointer md:ltr:-mr-3"
         />

@@ -4,7 +4,7 @@ import { AiOutlineGithub } from "react-icons/ai";
 
 export const footerContent = [
   {
-    title: "SlashShopMap",
+    title: "ElectronicsShopMap",
     subtitles: [
       {
         text: "aboutUs",
@@ -15,7 +15,7 @@ export const footerContent = [
         href: "/blank",
       },
       {
-        text: "saleInSlashShop",
+        text: "saleInElectronicsShop",
         href: "/blank",
       },
       {

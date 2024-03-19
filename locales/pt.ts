@@ -1,5 +1,5 @@
 const pt: { [key: string]: string } = {
-  mainPage: "slashshop Página Principal",
+  mainPage: "Electronicsshop Página Principal",
   search: "Pesquisa",
   login: "Entrar",
   logout: "Logout",
@@ -130,10 +130,10 @@ const pt: { [key: string]: string } = {
   seconds: "Seconds",
   byNow: "Add to cart",
   popularBrands: "Popular Brands",
-  SlashShopMap: "slashshop Map",
+  ElectronicsShopMap: "Electronicsshop Map",
   aboutUs: "About Us",
   contactUs: "Contact Us",
-  saleInSlashShop: "Sale In slashshop",
+  saleInElectronicsShop: "Sale In Electronicsshop",
   careerOpportunities: "Career Opportunities",
   customerServices: "Customer Services",
   commonQuestions: "Common Questions",
@@ -148,7 +148,7 @@ const pt: { [key: string]: string } = {
   yourEmail: "Please Enter Your Email",
   register: "Register",
   copyRight:
-    "© 2022 SlashShop. All rights reserved - Designed and Developed with ",
+    "© 2022 ElectronicsShop. All rights reserved - Designed and Developed with ",
   sort: "Sort based on: ",
   all: "All",
   newestProducts: "Newest",
